@@ -1,2 +1,2 @@
 # hello-world
-Testing SSH
+Testing SSH connection
